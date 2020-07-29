@@ -6,4 +6,4 @@ A realistic sticky note in Flutter
 
 # Article
 
-Find the respective tutorial here: https://www.flutterclutter.dev/
+Find the respective tutorial here: https://www.flutterclutter.dev/flutter/tutorials/create-a-sticky-note-in-flutter/2020/1018/
