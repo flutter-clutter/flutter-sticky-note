@@ -1,4 +1,4 @@
-# flutter_fruit_ninja_clone
+# flutter_sticky_note
 
 A realistic sticky note in Flutter
 
